@@ -11634,7 +11634,7 @@ button{
   transform: scale(1.2);
   border: 2px solid #fff;
 }
-@media (width: 400px) {
+@media (min-width: 400px) {
   .us img, iframe{
     object-fit: contain;
     width: 100%;
