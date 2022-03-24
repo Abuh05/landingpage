@@ -11645,7 +11645,7 @@ button{
 }
 
 }
-@media (min-width: 300px) {
+@media (min-width: 320px) {
   .us img{
     object-fit: contain;
     width: 100%;
@@ -11664,5 +11664,15 @@ button{
   top: 0;
   left: 0;
   height: 100%;
+}
+.btn{
+  width: 60vh;
+  color: #fff;
+  background-color: #13653f;
+  height: 10vh;
+  font-size: 20px;
+  margin-bottom: 1rem;
+  margin-left: 4rem;
+  transition: transform .5s;
 }
 }
