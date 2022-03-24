@@ -338,7 +338,7 @@ select,
 optgroup,
 textarea {
   margin: 0;
-  font-family: inherit;
+  font-family: Poppins;
   font-size: inherit;
   line-height: inherit;
 }
@@ -11645,7 +11645,7 @@ button{
 }
 
 }
-@media (min-width: 458px) {
+@media (min-width:350px) {
   .us img{
     object-fit: contain;
     width: 100%;
