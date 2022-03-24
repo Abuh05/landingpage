@@ -11634,8 +11634,10 @@ button{
   transform: scale(1.2);
   border: 2px solid #fff;
 }
+}
 @media (min-width: 400px) {
   .us img, iframe{
     object-fit: contain;
     width: 100%;
   }
+}
