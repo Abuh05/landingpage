@@ -11645,7 +11645,7 @@ button{
 }
 
 }
-@media (min-width: 450px) {
+@media (min-width: 350px) {
   .us img{
     object-fit: contain;
     width: 100%;
